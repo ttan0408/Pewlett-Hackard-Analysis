@@ -22,7 +22,7 @@ https://github.com/ttan0408/Pewlett-Hackard-Analysis/blob/main/Eligible_Employee
 
 The final code for SQL is loaded below :
 
-
+https://github.com/ttan0408/Pewlett-Hackard-Analysis/blob/main/Queries/Data/Employee_Database_challenge.sql
 
 
 
