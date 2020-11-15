@@ -11,7 +11,12 @@ After review the data, we found that the list has duplicate employee data since 
 
 https://github.com/ttan0408/Pewlett-Hackard-Analysis/blob/main/unique_titles.PNG
 
-Now with the clean employee retirement title table, our final task is to find out how many position for each title will be retired so that our HR department can have the hiring plan in the future. By using COUNT 
+Now with the clean employee retirement title table, our final task is to find out how many position for each title will be retired so that our HR department can have the hiring plan in the future. By using COUNT we know there are 2 manager position will need to fill. Senior staff and senior engineers are  more than 50k total will be retired. The summary table is shown below :
+
+https://github.com/ttan0408/Pewlett-Hackard-Analysis/blob/main/retirement_count.PNG
+
+## Mentorship program.
+After review the retirement list , Bobby's manager ask us to create a table of employees who are eligible for mentorship program so that we can train then to fill the position left by retirees. By using INNTER join between Employees, Dep_Emp, and Title toghther with DISTINCT ON, we create list of 1549 eligible employees as shown below 
 
 
 
