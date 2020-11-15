@@ -16,7 +16,13 @@ Now with the clean employee retirement title table, our final task is to find ou
 https://github.com/ttan0408/Pewlett-Hackard-Analysis/blob/main/retirement_count.PNG
 
 ## Mentorship program.
-After review the retirement list , Bobby's manager ask us to create a table of employees who are eligible for mentorship program so that we can train then to fill the position left by retirees. By using INNTER join between Employees, Dep_Emp, and Title toghther with DISTINCT ON, we create list of 1549 eligible employees as shown below 
+After review the retirement list , Bobby's manager ask us to create a table of employees who are eligible for mentorship program so that we can train then to fill the position left by retirees. By using INNTER join between Employees, Dep_Emp, and Title toghther with DISTINCT ON, we create list of 1549 eligible employees as shown below:
+
+https://github.com/ttan0408/Pewlett-Hackard-Analysis/blob/main/Eligible_Employee.PNG
+
+The final code for SQL is loaded below :
+
+
 
 
 
