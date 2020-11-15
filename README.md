@@ -9,6 +9,10 @@ https://github.com/ttan0408/Pewlett-Hackard-Analysis/blob/main/Retirement_Titles
 
 After review the data, we found that the list has duplicate employee data since some employees got promoted or change title. Then we use DISTINCT ON the employee number to retrieve the first occurrence of the employee number for each set of rows. After filter out duplicate data we were able to create unique title list as shown :
 
+https://github.com/ttan0408/Pewlett-Hackard-Analysis/blob/main/unique_titles.PNG
+
+Now with the clean employee retirement title table, our final task is to find out how many position for each title will be retired so that our HR department can have the hiring plan in the future. By using COUNT 
+
 
 
 
